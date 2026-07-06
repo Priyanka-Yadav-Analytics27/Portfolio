@@ -228,32 +228,6 @@ AI Product Design | NLP | LLM Prompt Engineering
 <br>
 <br>
 <hr>
-## 🏪 StoreIQ — Interactive Store Operations Dashboard
-
-### Problem
-Retail operations teams often struggle to translate raw daily KPI data into clear, prioritized action — leaving managers to manually sift through numbers to figure out what actually needs attention.
-
-### My Approach
-I built StoreIQ, a live Streamlit dashboard powered by Python, Plotly, and Pandas, that includes:
-- a logic-driven Executive Priorities engine that auto-generates prioritized Urgent/Action/Insight/Monitor recommendations from live KPI data
-- a stockout and low-stock risk module flagging at-risk inventory before it becomes a problem
-- vendor concentration risk tracking against a 20% risk threshold
-- an interactive Vendor Delay Scenario Simulator — pick a vendor and a delay length, and the app estimates affected SKUs, revenue at risk, and suggests an alternate supplier
-
-### Key Insight
-- Automating the interpretation layer (not just the reporting layer) reduces the manual work of translating raw metrics into decisions.
-- Modeling vendor delay scenarios ahead of time gives operations teams a head start on corrective action instead of reacting after the fact.
-
-### Business Impact
-StoreIQ turns a static reporting exercise into a decision-support tool, cutting down the time it takes managers to go from data to action, and gives leadership a proactive view of supply-chain risk.
-
-[![StoreIQ Dashboard](https://github.com/Priyanka-Yadav-Analytics27/Portfolio/raw/main/StoreIQ_Dashboard.png)](https://github.com/Priyanka-Yadav-Analytics27/Portfolio/blob/main/StoreIQ_Dashboard.png)
-
-🚀 [Launch Live App](https://your-streamlit-link-here.streamlit.app) | 💻 [View Code on GitHub](https://github.com/priyanka-yadav-analytics27/storeiq)
-
-### Tools
-Python | Streamlit | Plotly | Pandas
-
 ---
 <p align="center">
 Built by Priyanka Yadav • Business & Marketing Analytics Portfolio
